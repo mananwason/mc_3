@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Detect</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Name">Manan Wason (2013056)</string>
+    <string name="action_settings">Settings</string>
+    <string name="battery_low">Battery low</string>
+    <string name="ringer_changed">Ringer changed</string>
+    <string name="power_connected">Power connected</string>
+    <string name="power_disconnected">Power disconnected</string>
+    <string name="wifi_state_changed">Wifi state changed</string>
+    <string name="battery_okay">Battery okay</string>
+    <string name="dismiss_dialog">Dismiss</string>
+</resources>
